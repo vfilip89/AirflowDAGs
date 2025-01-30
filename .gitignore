@@ -175,6 +175,7 @@ cython_debug/
 
 # Ignore JSON files
 *.json
+*.JSON
 
 # Ignore TXT files
 *.txt
